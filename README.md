@@ -20,6 +20,7 @@
 ## Intro
 
 A API RESTful Ecoleta foi desenvolvida para web(React) e mobile(React Native). A API foi desenvolvida em Node JS utilizando TypeScript.
+<br>
 As funcionalidades disponíveis na aplicação é:
 ```bash
 # Na aplicação web:
