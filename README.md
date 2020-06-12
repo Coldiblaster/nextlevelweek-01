@@ -21,11 +21,11 @@
 
 A API RESTful Ecoleta foi desenvolvida para web(React) e mobile(React Native). A API foi desenvolvida em Node JS utilizando TypeScript.
 As funcionalidades disponíveis na aplicação é:
-`bash
+```bash
 # Na aplicação web:
 $ Inserir imagem da entidade, nome, email, whatsapp, local via api de maps, cidade, estado e ítens de coleta.
 # Na aplicação mobile:
 $ O usuário utilizara o aplicativo para localizar as entidades, filtrando o estado e cidade, então pelo maps ele encontrara as entidades que atende a necessidade dele, tendo que filtrar quais resíduos ele ira descartar.
-`
+```
 
 
